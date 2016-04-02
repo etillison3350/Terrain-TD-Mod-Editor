@@ -1,0 +1,150 @@
+lang-name=Português
+
+mods=Mods
+version=Versão
+base-description=Contém todos os recursos para o jogo base.
+authors=Autores
+ricky3350=ricky3350
+contact=Contato
+homepage=Site
+enable=Ativar
+disable=Desativar
+warning-mod-change=Aviso: A alteração da configuração mod requer reiniciar o jogo actual.
+base=Base
+
+title=Defesa de Torres com Terreno
+
+game=Jogo
+help=Ajuda
+
+new=Novo
+open=Abrir
+save=Guardar
+dont-save=Descartar
+save-as=Guardar como
+pause=Pausar
+game-speed=Velocidade de Jogo
+exit=Sair
+accept=Aceitar
+yes=Sim
+cancel=Cancelar
+
+settings=Definições
+language=Idioma
+pause-on-buy=Pare quando compra
+
+confirm-new=Guardar este jogo?
+title-confirm-new=Novo Jogo
+confirm-exit=Guardar este jogo?
+title-confirm-exit=Sair
+already-exists=já existe.
+confirm-replace=Quer substituir?
+title-confirm-replace=Confirme Guardar Como
+file-not-found=Arquivo não encontrado.
+check-file-name=Verifique o nome do arquivo e tente novamente.
+title-file-not-found=Abrir
+
+extension-name=Jogo (*.game)
+all-files=Todos Arquivos
+file-name=Nome do Arquivo
+title-invalid-file=Arquivo Inválido
+cannot-read=Não é possível ler este arquivo.
+invalid-file=Este não é um arquivo do jogo válido ou seu formato não é suportado.
+
+level=Nível
+
+state-complete=Nível Completado
+state-failed=Fim de Jogo
+state-won=Você Ganhou
+
+towers=Torres
+enemies=Inimigos
+obstacles=Obstáculos
+projectiles=Projéteis
+effects=Efeitos
+
+effect-fire=Fogo
+effect-paralysis=Paralisia
+effect-slowness=Lentidão
+effect-weakness=Fraqueza
+effect-bluntness=embotamento
+effect-frost=Geada
+effect-poison=Veneno
+effect-bleed=Sangrar
+none=Nenhum
+
+health=Saúde
+money=Dinheiro
+
+kills=Matanças
+damage-dealt=Dano causado
+projectiles-fired=Tiros disparados
+
+target=Alvo
+target-first=Primeiro
+target-last=Último
+target-nearest=Mais próximo
+target-farthest=Mais distante
+target-strongest=Mais são
+target-weakest=Mais fraco
+target-valuablest=Mais valioso
+target-worthlessest=Menos valioso
+target-na=Tudo
+
+area=Área
+tiles=praças
+dps=Dano por segundo
+total-damage=Dano total
+
+delivery=Tipo
+delivery-singletarget=Único
+delivery-area=Área
+delivery-line=Viga
+delivery-sector=Setor
+
+inst-target=Tem como alvo
+inst-target-enemy=Inimigos
+inst-target-location=Locais aleatórios
+inst-target-rotation=Rotações aleatórias
+inst-target-spread=Rotações aleatórias
+
+explode-radius=Raio de explosão
+count=Contagem
+reward=Recompensa
+active-effects=Efeitos Ativos
+
+damage=Danificar
+rate=Cadência de tiro
+rpm=TPM
+detect-range=Faixa de detecção
+range=Alcance
+
+sell-cost=Preço de venda
+sell=Vender
+remove=Destruir
+
+tower-single=Canhão
+tower-line=Canhão Laser
+tower-area=PEM
+tower-sector=Torre de Torta
+tower-poison=Torre do Dardo do Veneno
+tower-electricball=Ball Elétrica
+tower-testsingle=Canhão de Choque
+tower-explode=Lançador de Mísseis
+
+enemy-a=Tanque
+enemy-b=Veículo
+enemy-c=Carro
+
+instant-example=Ataque aéreo
+
+obstacle-example=Pedra
+
+level-example=Exemplo
+
+world-europe=Europa
+world-test=Mundo sem nome 1
+world-matu=Mundo sem nome 2
+world-perlin-a=Mundo sem nome 3
+world-nn=Mundo sem nome 4
+world-perlin-b=Mundo sem nome 5

@@ -1,0 +1,151 @@
+lang-name=Français
+
+mods=Mods
+version=Version
+base-descriptionContient toutes les ressources pour le jeu de base.
+authors=Auteurs
+ricky3350=ricky3350
+contact=Contactez
+homepage=Site Internet
+enable=Activer
+disable=Désactiver
+warning-mod-change=Attention: Modification de la configuration mod nécessite le redémarrage du jeu en cours.
+base=Base
+
+title=Défense des Tours Avec Terrain
+
+game=Jeu
+help=Aide
+
+new=Nouveau
+open=Ouvrir
+save=Enregistrer
+dont-save=Jeter
+save-as=Enregistrer sous
+pause=Arrêter
+game-speed=Vitessde de Jeu
+language=Langue
+exit=Quitter
+accept=Accepter
+yes=Oui
+cancel=Annuler
+
+settings=Réglages
+language=Langue
+pause-on-buy=Arrêter lorsque l'achat
+
+confirm-new=Enregistrer ce jeu?
+title-confirm-new=Nouveau Jeu
+confirm-exit=Enregistrer ce jeu?
+title-confirm-exit=Quitter
+already-exists=existe déjà.
+confirm-replace=Voulez-vous le remplacer?
+title-confirm-replace=Confirmez Enregistrer Sous
+file-not-found=Fichier introuvable.
+check-file-name=Vérifiez le nom du fichier et essayez à nouveau.
+title-file-name-file=Ouvrir
+
+extension-name=Jeu (*.game)
+all-files=Touts les Fichiers
+file-name=Nom de Fichier
+title-invalid-file=Fichier Invalide
+cannot-read=Vous ne pouvez pas lire ce fichier.
+invalid-file=Ce ne sont pas un jeu de fichier valide, ou son format est pas pris en charge actuellement.
+
+level=Niveau
+
+state-complete=Niveau Complet
+state-failed=Jeu Terminé
+state-won=Vous Avez Gagné
+
+towers=Tours
+enemies=Ennemis
+obstacles=Obstacles
+projectiles=Projectiles
+effects=Effets
+
+effect-fire=Feu
+effect-paralysis=Paralysie
+effect-slowness=Lenteur
+effect-weakness=Faiblesse
+effect-bluntness-État Émoussé
+effect-frost=Gel
+effect-poison=Poison
+effect-bleed=Saigner
+none=Aucun
+
+health=Vie
+money=Argent
+
+kills=Chasse
+damage-dealt=Dégâts infligés
+projectiles-fired=Tirs dirigés
+
+target=Cible
+target-first=Premier
+target-last=Dernier
+target-nearest=Plus proche
+target-farthest=Plus éloigné
+target-strongest=Plus saine
+target-weakest=Plus faible
+target-valuablest=Plus précieux
+target-worthlessest=Moins précieuse
+target-na=Tout
+
+area=Superficie
+tiles=carrés
+dps=Dommage par Seconde
+total-damage=Dommage total
+
+delivery=Catégorie
+delivery-singletarget=Cible Seul
+delivery-area=Région
+delivery-line=Faisceau
+delivery-sector=Secteur
+
+inst-target=Cible
+inst-target-enemy=Ennemis
+inst-target-location=Emplacements aléatoires
+inst-target-rotation=Rotations aléatoires
+inst-target-spread=Rotations aléatoires
+
+explode-radius=Rayon d'explosion
+count=Numéro
+reward=Récompense
+active-effects=Effets Actifs
+
+damage=Dommage
+rate=Cadence de Tir
+rpm=CPM
+detect-range=Distance de Vision
+range=Portée
+
+sell-cost=Prix de vente
+sell=Revendre
+remove=Détruire
+
+tower-single=Canon
+tower-line=Canon Laser
+tower-area=IEM
+tower-sector=Tour de Gâteau
+tower-poison=Tour de Dard de Poison
+tower-electricball=Balle Électrique
+tower-testsingle=Canon étourdir
+tower-explode=Lance-missiles
+
+enemy-a=Char d'assaut
+enemy-b=Véhicule
+enemy-c=Voiture
+
+instant-example=Intervention aérienne
+
+obstacle-example=Pierre
+
+level-example=Exemple
+
+world-europe=Europa
+world-test=Monde sans nom 1
+world-matu=Monde sans nom 2
+world-perlin-a=Monde sans nom 3
+world-nn=Monde sans nom 4
+world-perlin-b=Monde sans nom 5

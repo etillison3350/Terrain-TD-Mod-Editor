@@ -1,0 +1,150 @@
+lang-name=English (United States)
+
+mods=Mods
+version=Version
+base-description=Contains all of the resources for the base game.
+authors=Authors
+ricky3350=ricky3350
+contact=Contact
+homepage=Homepage
+enable=Enable
+disable=Disable
+warning-mod-change=Warning: Changing the mod configuration requires restarting the current game.
+base=Base
+
+title=Terrain TD
+
+game=Game
+help=Help
+
+new=New
+open=Open
+save=Save
+dont-save=Don't Save
+save-as=Save As
+pause=Pause
+game-speed=Game Speed
+exit=Exit
+accept=OK
+yes=Yes
+cancel=Cancel
+
+settings=Settings
+language=Language
+pause-on-buy=Pause when buying
+
+confirm-new=Save this game?
+title-confirm-new=New Game
+confirm-exit=Save this game?
+title-confirm-exit=Exit
+already-exists=already exists.
+confirm-replace=Do you want to replace it?
+title-confirm-replace=Confirm Save As
+file-not-found=File not found.
+check-file-name=Check the file name and try again.
+title-file-not-found=Open
+
+extension-name=Game (*.game)
+all-files=All Files
+file-name=File Name
+title-invalid-file=Invalid File
+cannot-read=Cannot read this file.
+invalid-file=This is not a valid game file, or its format is not currently supported.
+
+level=Level
+
+state-complete=Level Complete
+state-failed=Level Failed
+state-won=You Win
+
+towers=Towers
+enemies=Enemies
+obstacles=Obstacles
+projectiles=Projectiles
+effects=Effects
+
+effect-fire=Fire
+effect-paralysis=Paralysis
+effect-slowness=Slowness
+effect-weakness=Weakness
+effect-bluntness=Bluntness
+effect-frost=Frost
+effect-poison=Poison
+effect-bleed=Bleed
+none=None
+
+health=Health
+money=Money
+
+kills=Kills
+damage-dealt=Damage dealt
+projectiles-fired=Shots fired
+
+target=Target
+target-first=First
+target-last=Last
+target-nearest=Nearest
+target-farthest=Farthest
+target-strongest=Strongest
+target-weakest=Weakest
+target-valuablest=Most reward
+target-worthlessest=Least reward
+target-na=All
+
+area=Area
+tiles=tiles
+dps=Damage Per Second
+total-damage=Total Damage
+
+delivery=Type
+delivery-singletarget=Single
+delivery-area=Area
+delivery-line=Beam
+delivery-sector=Sector
+
+inst-target=Targets
+inst-target-enemy=Enemies
+inst-target-location=Random locations
+inst-target-rotation=Random rotations
+inst-target-spread=Random rotations
+
+explode-radius=Explosion radius
+count=Count
+reward=Reward
+active-effects=Active Effects
+
+damage=Damage
+rate=Firerate
+rpm=RPM
+detect-range=Detection Range
+range=Range
+
+sell-cost=Sell cost
+sell=Sell
+remove=Destroy
+
+tower-single=Cannon
+tower-line=Laser Cannon
+tower-area=EMP
+tower-sector=Pie Tower
+tower-poison=Poison Dart Tower
+tower-electricball=Electric Ball
+tower-testsingle=Stun cannon
+tower-explode=Missle launcher
+
+enemy-a=Tank
+enemy-b=Vehicle
+enemy-c=Car
+
+instant-example=Air strike
+
+obstacle-example=Stone
+
+level-example=Example
+
+world-europe=Europe
+world-test=Unnamed world 1
+world-matu=Unnamed world 2
+world-perlin-a=Unnamed world 3
+world-nn=Unnamed world 4
+world-perlin-b=Unnamed world 5

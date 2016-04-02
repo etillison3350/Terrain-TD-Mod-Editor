@@ -1,0 +1,150 @@
+lang-name=русский язык
+
+mods=Моды
+version=Версия
+base-description=Содержит все ресурсы для базовой игры.
+authors=Авторы
+ricky3350=ricky3350
+contact=контакт
+homepage=Веб-сайт
+enable=включить
+disable=Отключить
+warning-mod-change=Внимание: Изменение мод конфигурацию требует перезагрузки текущую игру.
+base=база
+
+title=Обороны башни на территория
+
+game=играть
+help=Помогите
+	
+new=новый
+open=открытым
+save=Сохранить
+dont-save=отбрасывать
+save-as=Сохранить как
+pause=пауза
+game-speed=Скорость игры
+exit=оставлять
+accept=признавать
+yes=да
+cancel=отменить
+
+settings=настройка
+language=язык
+pause-on-buy=Пауза при покупке
+
+confirm-new=Сохранить в эту игру?
+title-confirm-new=Новая игра
+confirm-exit=Сохранить в эту игру?
+title-confirm-exit=оставлять
+already-exists=уже существует.
+confirm-replace=Вы хотите заменить это?
+title-confirm-replace=Подтвердите Сохранить как
+file-not-found=Файл не найден.
+check-file-name=Проверьте имя файла и повторите попытку.
+title-file-not-found=открытым
+
+extension-name=играть (*.game)
+all-files=Все файлы
+file-name=Имя файла
+title-invalid-file=неверный файл
+cannot-read=Не можете прочитать этот файл.
+invalid-file=Это не правильный файл игры, или его формат не поддерживается.
+
+level=уровень
+
+state-complete=Уровень пройден
+state-failed=Игра закончена
+state-won=Ты победил
+
+towers=Башни
+enemies=враги
+obstacles=Препятствия
+projectiles=снаряды
+effects=Последствия
+
+effect-fire=Огонь
+effect-paralysis=Паралич
+effect-slowness=медлительность
+effect-weakness=Слабое место
+effect-bluntness=неотточенный
+effect-frost=Мороз
+effect-poison=яд
+effect-bleed=кровоточить
+none=Никто
+
+health=Здоровье
+money=Деньги
+
+kills=Убийств
+damage-dealt=Нанесенный ущерб
+projectiles-fired=Произведены выстрелы
+
+target=цель
+target-first=Первый
+target-last=Последний
+target-nearest=ближайший
+target-farthest=дальний
+target-strongest=здоровый
+target-weakest=слабейший
+target-valuablest=Наиболее ценный
+target-worthlessest=наименее ценны
+target-na=Все
+
+area=Площадка
+tiles=плитка
+dps=Урон в секунду
+total-damage=Общий ущерб
+
+delivery=Тип
+delivery-singletarget=Один
+delivery-area=Площадка
+delivery-line=Луч
+delivery-sector=сектор
+
+inst-target=нацелен
+inst-target-enemy=враги
+inst-target-location=Случайные места
+inst-target-rotation=Случайные вращения
+inst-target-spread=Случайные вращения
+
+explode-radius=радиус взрыва
+count=подсчет
+reward=Награда
+active-effects=Активные эффекты
+
+damage=Наносить ущерб
+rate=Скорость стрельбы
+rpm=RPM
+detect-range=Диапазон обнаружения
+range=Ассортимент
+
+sell-cost=Цена продажи
+sell=продавать
+remove=уничтожить
+
+tower-single=пушка
+tower-line=Лазерная пушка
+tower-area=ЭМИ
+tower-sector=Пирог вышка
+tower-poison=Яд дротик башня
+tower-electricball=Электрический шар
+tower-testsingle=оглушают пушки
+tower-explode=ракетная пусковая установка
+
+enemy-a=танк
+enemy-b=средство передвижения
+enemy-c=автомобиль
+
+instant-example=налет авиации
+
+obstacle-example=Камень
+
+level-example=пример
+
+world-europe=Европа
+world-test=Безымянные мир 1
+world-matu=Безымянные мир 2
+world-perlin-a=Безымянные мир 3
+world-nn=Безымянные мир 4
+world-perlin-b=Безымянные мир 5

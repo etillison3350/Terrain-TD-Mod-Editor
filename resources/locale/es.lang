@@ -1,0 +1,150 @@
+lang-name=Español
+
+mods=Mods
+version=Versión
+base-description=Contiene todos los recursos para el juego base.
+authors=Autores
+ricky3350=ricky3350
+contact=Contacto
+homepage=Sitio web
+enable=Activar
+disable=Desactivar
+warning-mod-change=Advertencia: Al cambiar la configuración mod requiere reiniciar el juego actual.
+base=Base
+
+title=Defensa de Torres Con Terreno
+
+game=Juego
+help=Ayuda
+
+new=Nuevo
+open=Abrir
+save=Guardar
+dont-save=Descartar
+save-as=Guardar como
+pause=Pausar
+game-speed=Velocidad del Juego
+exit=Salir
+accept=Aceptar
+yes=Sí
+cancel=Cancelar
+
+settings=Ajustes
+language=Idioma
+pause-on-buy=Pausar al comprar
+
+confirm-new=¿Guardar este juego?
+title-confirm-new=Juego Nuevo
+confirm-exit=¿Guardar este juego?
+title-confirm-exit=Salir
+already-exists=ya existe.
+confirm-replace=¿Quiere reemplazarlo?
+title-confirm-replace=Confirmar Guardar como
+file-not-found=File not found.
+check-file-name=Check the filename and try again.
+title-file-not-found=Abrir
+
+extension-name=Juego (*.game)
+all-files=Todos los Tipos
+file-name=Nombre del Archivo
+title-invalid-file=Archivo Inválido
+cannot-read=No se puede leer este archivo.
+invalid-file=Esto no es un archivo de juego válido o su formato no es compatible actualmente.
+
+level=Nivel
+
+state-complete=Nivel Completado
+state-failed=Juego Terminado
+state-won=Usted Ganó
+
+towers=Torres
+enemies=Enemigos
+obstacles=Obstáculos
+projectiles=Proyectiles
+effects=Efectos
+
+effect-fire=Fuego
+effect-paralysis=Parálisis
+effect-slowness=Lentitud
+effect-weakness=Debilidad
+effect-bluntness=Desafilado
+effect-frost=Escarcha
+effect-poison=Veneno
+effect-bleed=Sangrar
+none=Ninguno
+
+health=Vida
+money=Dinero
+
+kills=Enemigos ejecutados
+damage-dealt=Daño infligido
+projectiles-fired=Disparos tirados
+
+target=Blanco
+target-first=Primero
+target-last=Último
+target-nearest=Más cercano
+target-farthest=Más lejano
+target-strongest=Más sano
+target-weakest=Más débil
+target-valuablest=Más valioso
+target-worthlessest=Menos valioso
+target-na=Todo
+
+area=Área
+tiles=cuadrados
+dps=Daño Por Segundo
+total-damage=Daño total
+
+delivery=Tipo
+delivery-singletarget=Un disparo
+delivery-area=Área
+delivery-line=Linea
+delivery-sector=Sector
+
+inst-target=Dirigido a
+inst-target-enemy=Enemigos
+inst-target-location=Lugares aleatorios
+inst-target-rotation=Rotaciones aleatorias
+inst-target-spread=Rotaciones aleatorias
+
+explode-radius=Radio de explosión
+count=Cuenta
+reward=Recompensa
+active-effects=Efectos Activos
+
+damage=Daño
+rate=Cadencia de Tiro
+rpm=DPM
+detect-range=Distancia de Visión
+range=Alcance
+
+sell-cost=Precio de venta
+sell=Vender
+remove=Destruir
+
+tower-single=Cañón
+tower-line=Cañón Láser
+tower-area=PEM
+tower-sector=Torre de Tarta
+tower-poison=Torre de Dardos Venenosos
+tower-electricball=Bola Eléctrica
+tower-testsingle=Cañón de Aturdimiento
+tower-explode=Lanzador de misiles
+
+enemy-a=Tanque
+enemy-b=Vehículo
+enemy-c=Coche
+
+instant-example=Asalto aéreo
+
+obstacle-example=Piedra
+
+level-example=Ejemplo
+
+world-europe=Europa
+world-test=Mundo sin nombre 1
+world-matu=Mundo sin nombre 2
+world-perlin-a=Mundo sin nombre 3
+world-nn=Mundo sin nombre 4
+world-perlin-b=Mundo sin nombre 5

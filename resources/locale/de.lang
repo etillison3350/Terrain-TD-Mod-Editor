@@ -1,0 +1,150 @@
+lang-name=Deutsch
+
+mods=Mods
+version=Version
+base-description=Enthält alle Ressourcen für das Basisspiel.
+authors=Autoren
+ricky3350=ricky3350
+contact=Kontakt
+homepage=Webseite
+enable=Aktivieren
+disable=Deaktivieren
+warning-mod-change=Warnung: Ändern der Mod-Konfiguration erfordert das aktuelle Spiel neu zu starten.
+base=Basis
+
+title=Turmabwehr mit Gelände
+
+game=Spiel
+help=Hilfe
+
+new=Neu
+open=Öffnen
+save=Sparen
+dont-save=Nicht speichern
+save-as=Speichern als
+pause=Pause
+game-speed=Spielgeschwindigkeit
+exit=Verlassen
+accept=Akzeptieren
+yes=Ja
+cancel=Absagen
+
+settings=Einstellungen
+language=Sprache
+pause-on-buy=Pause beim Kauf
+
+confirm-new=Speichern dieses Spiel?
+title-confirm-new=Neues Spiel
+confirm-exit=Speichern dieses Spiel?
+title-confirm-exit=Verlassen
+already-exists=existiert bereits.
+confirm-replace=Möchten Sie es ersetzen?
+title-confirm-replace=Bestätigen Sie Speichern Als
+file-not-found=Datei nicht gefunden.
+check-file-name=Überprüfen Sie den Dateinamen und versuchen Sie es erneut.
+title-file-not-found=Öffnen
+
+extension-name=Spiel (*.game)
+all-files=Alle Dateien
+file-name=Dateiname
+title-invalid-file=Ungültige Datei
+cannot-read=Kann diese Datei nicht lesen.
+invalid-file=Dies ist kein gültiges Spiel-Datei, oder das Format wird derzeit nicht unterstützt.
+
+level=Level
+
+state-complete=Level geschafft
+state-failed=Spiel zu Ende
+state-won=Du Hast Gewonnen
+
+towers=Towers
+enemies=Feinde
+obstacles=Hindernisse
+projectiles=Geschosse
+effects=Auswirkungen
+
+effect-fire=Feuer
+effect-paralysis=Lähmung
+effect-slowness=Langsamkeit
+effect-weakness=Schwäche
+effect-bluntness=Stumpfheit
+effect-frost=Frost
+effect-poison=Gift
+effect-bleed=Blutung
+none=Keinen
+
+health=Gesundheit
+money=Geld
+
+kills=Beute
+damage-dealt=Schaden ausgeteilt
+projectiles-fired=Schüsse abgefeuert
+
+target=Ziel
+target-first=Erste
+target-last=Letzte
+target-nearest=Nächste
+target-farthest=Am weitesten
+target-strongest=Gesündesten
+target-weakest=Schwächste
+target-valuablest=Wertvollster
+target-worthlessest=Dest wertvolle
+target-na=Alles
+
+area=Bereich
+tiles=Fliesen
+dps=Schaden pro Sekunde
+total-damage=Gesamtschaden
+
+delivery=Art
+delivery-singletarget=Single
+delivery-area=Bereich
+delivery-line=Strahl
+delivery-sector=Sektor
+
+inst-target=Zielt
+inst-target-enemy=Enemies
+inst-target-locaiton=Zufällige Orte
+inst-target-rotation=Zufällige Rotationen
+inst-target-spread=Zufällige Rotationen
+
+explode-radius=Explosionsradius
+count=Zählung
+reward=Belohnung
+active-effects=Aktiven Effekte
+
+damage=Schäden
+rate=Kadenz
+rpm=Schuss pro Minute
+detect-range=Erfassungsbereich
+range=Reichweite
+
+sell-cost=Verkaufspreis
+sell=Verkaufen
+remove=Zerstören
+
+tower-single=Kanone
+tower-line=Laser-Kanonen
+tower-area=Elektromagnetische Impuls
+tower-sector=Turm der Torte
+tower-poison=Turm des Giftpfeil
+tower-electricball=Elektro-Ball
+tower-testsingle=Betäubungskanone
+tower-explode=Raketenwerfer
+
+enemy-a=Panzer
+enemy-b=Fahrzeug
+enemy-c=Auto
+
+instant-example=Luftangriff
+
+obstacle-example=Stein
+
+level-example=Beispiel
+
+world-europe=Europa
+world-test=Unbenannt Welt 1
+world-matu=Unbenannt Welt 2
+world-perlin-a=Unbenannt Welt 3
+world-nn=Unbenannt Welt 4
+world-perlin-b=Unbenannt Welt 5
